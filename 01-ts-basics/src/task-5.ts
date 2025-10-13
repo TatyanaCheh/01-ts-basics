@@ -11,3 +11,5 @@ function logStatus(status: Status): void {
 }
 
 logStatus("loading");
+logStatus("success");
+logStatus("error");
